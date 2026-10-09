@@ -16,13 +16,17 @@ Select text in almost any app, press a shortcut, and Shrink summarizes it on you
 
 ### In most apps
 
-<!-- VIDEO (Services demo): on github.com, edit this file and drag the video onto this line. -->
+
+https://github.com/user-attachments/assets/fba8057f-62c8-4b2d-8100-4dc0449a18b9
+
 
 Select text, then press **Control-Shift-Command-S** (⌃⇧⌘S), or right-click and choose **Services → Summarize with Shrink** (both need a one-time switch first; see [Getting started](#getting-started)). A small summary panel opens next to the pointer and the summary appears as it's written. Once it's finished, click **Copy** (or press ⌘C) to copy it. Press **Escape** to close the panel.
 
 ### In Safari
 
-<!-- VIDEO (Safari demo): on github.com, edit this file and drag the video onto this line. -->
+
+https://github.com/user-attachments/assets/3aa9a706-da80-4a53-b92b-38d39f84526c
+
 
 Select text on a web page, right-click, and choose **Summarize with Shrink**. The summary opens in a popover under Shrink's **Summarize** button in Safari's toolbar, with a **Copy** button. Keep that button in the toolbar, or the summary has nowhere to appear.
 
