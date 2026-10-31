@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Private, on-device summaries for your Mac.</strong></p>
 
-<p align="center">Coming soon to the Mac App Store.</p>
+<p align="center"><a href="https://apps.apple.com/us/app/shrink-local-ai-summarizer/id6819268354?mt=12">Get It Here For Free!</a></p>
 
 ---
 
