@@ -16,13 +16,17 @@ Select text in almost any app, press a shortcut, and Shrink summarizes it on you
 
 ### In most apps
 
-<img width="640" height="360" alt="services_preview_1280_8fps" src="./assets/services_preview_1280_8fps.gif" />
+<p align="center">
+  <img width="640" height="360" alt="services_preview_1280_8fps" src="./assets/services_preview_1280_8fps.gif" />
+</p>
 
 Select text and press **⌃⇧⌘S** (or right-click → **Services → Summarize with Shrink**). A panel opens by the pointer and the summary appears as it's written. Click **Copy** or press ⌘C to copy it, and **Escape** to close.
 
 ### In Safari
 
-<img width="640" height="360" alt="safari_preview_1280_8fps" src="./assets/safari_preview_1280_8fps.gif" />
+<p align="center">
+  <img width="640" height="360" alt="safari_preview_1280_8fps" src="./assets/safari_preview_1280_8fps.gif" />
+</p>
 
 Select text, right-click, and choose **Summarize with Shrink**. The summary opens under Shrink's **Summarize** button in the toolbar, so keep that button there.
 
