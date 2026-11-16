@@ -6,55 +6,56 @@
 
 <p align="center"><strong>Private, on-device summaries for your Mac.</strong></p>
 
-<p align="center">Coming soon to the Mac App Store.</p>
+<p align="center"><a href="https://apps.apple.com/us/app/shrink-local-ai-summarizer/id6819268354?mt=12">Get It Here For Free!</a></p>
 
 ---
 
-Select text in almost any app, press a shortcut, and Shrink summarizes it on your Mac, without sending your text anywhere.
+## What does Shrink do?
 
-## Two ways to summarize
+An on-device text summarizer for macOS. Select text in almost any app, and Shrink summarizes it with Apple Intelligence.
+
+## Why Shrink?
+
+Ever since the removal of Writing Tools in macOS 27, there's been no quick way to summarize the text you're reading. Shrink brings it back, and keeps it simple: press a shortcut in almost any app, or right-click in Safari, and the summary appears right where you are.
+
+Everything runs on your Mac with Apple Intelligence's on-device model. **Shrink has no internet access and keeps no history of your text or summaries**. Read the full [privacy policy](PRIVACY.md).
+
+It's also **free, with nothing hidden: no subscriptions, trials, in-app purchases, ads or accounts**. With no servers to pay for, there's nothing to charge you for.
+
+## Great! How do I use it?
 
 ### In most apps
 
-<!-- VIDEO (Services demo): on github.com, edit this file and drag the video onto this line. -->
+<p align="center">
+  <img width="640" height="360" alt="services_preview_1280_8fps" src="./assets/services_preview_1280_8fps.gif" />
+</p>
 
-Select text, then press **Control-Shift-Command-S** (⌃⇧⌘S), or right-click and choose **Services → Summarize with Shrink** (both need a one-time switch first; see [Getting started](#getting-started)). A small summary panel opens next to the pointer and the summary appears as it's written. Once it's finished, click **Copy** (or press ⌘C) to copy it. Press **Escape** to close the panel.
+Select text and press **⌃⇧⌘S** (or right-click → **Services → Summarize with Shrink**). A panel opens by the pointer and the summary appears as it's written. Click **Copy** or press **⌘C** to copy it, and **Escape** to close.
 
 ### In Safari
 
-<!-- VIDEO (Safari demo): on github.com, edit this file and drag the video onto this line. -->
+<p align="center">
+  <img width="640" height="360" alt="safari_preview_1280_8fps" src="./assets/safari_preview_1280_8fps.gif" />
+</p>
 
-Select text on a web page, right-click, and choose **Summarize with Shrink**. The summary opens in a popover under Shrink's **Summarize** button in Safari's toolbar, with a **Copy** button. Keep that button in the toolbar, or the summary has nowhere to appear.
+Select text, right-click, and choose **Summarize with Shrink**. The summary opens under Shrink's **Summarize** button in the toolbar, so keep that button there.
 
-### What to expect
+## Requirements & Installation Guide
 
-Summaries are written as plain paragraphs, in the language of the text: a few sentences for a short passage, a few paragraphs for a long article. Shrink needs about a paragraph (roughly 100 words) to work with and handles up to roughly 18,000 words (fewer in Chinese, Japanese or Korean).
+**Requirements:** a Mac with Apple Intelligence turned on, running macOS 27 or later.
 
-## Private by design
+**Installation:**
 
-- **Runs entirely on your Mac**, using Apple Intelligence's on-device model.
-- **No network access.** The app and its Safari extension are built with internet access switched off.
-- **Nothing collected, nothing saved.** No accounts, analytics, tracking or ads, and no history of your text or summaries.
+1. Download Shrink for free from the [Mac App Store](https://apps.apple.com/us/app/shrink-local-ai-summarizer/id6819268354?mt=12).
+2. Open it. Shrink lives in the menu bar, and on first launch a short guide walks you through two one-time switches:
+   - **Shortcut and Services menu:** System Settings → Keyboard → **Keyboard Shortcuts…** → Services → Text → tick **Summarize with Shrink**.
+   - **Safari extension:** Safari → Settings → Extensions → tick **Shrink**, then allow it on every website (or choose **Always Allow on Every Website** the first time you right-click).
 
-Read the full [privacy policy](PRIVACY.md).
+To see the guide again, choose **How to Use Shrink…** from the menu bar icon.
 
-## Getting started
+## Supported Languages
 
-Shrink lives in the menu bar, so it has no Dock icon. When you first open it, a short guide walks you through two one-time switches, skipping any that are already on:
-
-1. **The shortcut and Services menu:** System Settings → Keyboard → **Keyboard Shortcuts…** → Services → under Text, tick **Summarize with Shrink**. macOS keeps new services switched off until you do.
-2. **The Safari extension:** Safari → Settings → Extensions → tick **Shrink**, then click **Edit Websites…** and allow it on other websites. Or skip that last part: the first time you right-click, Safari asks, and you can choose **Always Allow on Every Website**.
-
-To see the guide again, choose **How to Use Shrink…** from Shrink's menu bar icon, or open Shrink again.
-
-## Requirements
-
-- macOS 27 or later
-- A Mac that supports Apple Intelligence, with Apple Intelligence turned on
-
-## Languages
-
-Shrink summarizes text in English, Danish, Dutch, French, German, Italian, Japanese, Korean, Norwegian, Portuguese, Simplified Chinese, Spanish, Swedish, Traditional Chinese, Turkish and Vietnamese. Its interface is available in the same 16 languages (Portuguese as used in Brazil).
+English, Danish, Dutch, French, German, Italian, Japanese, Korean, Norwegian, Portuguese (Brazil), Simplified Chinese, Spanish, Swedish, Traditional Chinese, Turkish and Vietnamese, for both summaries and the interface.
 
 ## Help
 
