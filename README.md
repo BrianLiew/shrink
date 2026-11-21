@@ -2,9 +2,9 @@
   <img src="assets/icon.png" width="128" height="128" alt="Shrink app icon">
 </p>
 
-<h1 align="center">Shrink</h1>
+# Shrink
 
-<p align="center"><strong>Private, on-device summaries for your Mac.</strong></p>
+**Private, on-device summaries for your Mac.**
 
 <p align="center"><a href="https://apps.apple.com/us/app/shrink-local-ai-summarizer/id6819268354?mt=12">Get It Here For Free!</a></p>
 
@@ -42,7 +42,9 @@ Select text, right-click, and choose **Summarize with Shrink**. The summary open
 
 ## Requirements & Installation Guide
 
-**Requirements:** a Mac with Apple Intelligence turned on, running macOS 27 or later.
+**Requirements:**
+
+a Mac with Apple Intelligence turned on, running macOS 27 or later.
 
 **Installation:**
 
